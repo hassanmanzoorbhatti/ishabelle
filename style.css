@@ -5,3 +5,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.js .reveal{opacity:1;transform:none}.collection-track{scroll-behavior:auto}}
 
 @media(max-width:767px){h1{font-size:clamp(42px,12.4vw,57px);line-height:1.05}h1 span{display:block;white-space:nowrap}.hero-copy{padding-top:24px}}
+
+h1 span{display:block}.cake-card .image-window{position:absolute;inset:6px;overflow:hidden;border-radius:10px}.cake-card .image-window img{clip-path:none;inset:0}.cake-card .image-window .cake-crop{width:180%;height:180%;left:0;top:-30%;object-position:0 66%}.cake-card .image-window .cupcake-crop{width:180%;height:180%;left:-78%;top:-48%;object-position:90% 70%}
