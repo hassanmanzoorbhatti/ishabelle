@@ -12,7 +12,7 @@ Motion: staged hero entrances, six-second crossfades, swipe and dot controls, pa
 
 ## Enquiries
 
-The form prepares a personalised message for visitors to copy and send to @bakes.byisha on Instagram. It does not send email, collect uploads, store enquiry data or confirm bookings. No private contact details, fake reviews or invented prices are included.
+The form prepares a personalised message for visitors to copy and send to @bakes.byisha on Instagram. It does not send email, collect uploads, store enquiry data or confirm bookings. No private contact details, fake reviews or invented prices are included. The kind-words carousel quotes three verified public Instagram comments, attributed and linked to their original comments; these are community reactions, not verified purchase testimonials.
 
 ## Sources
 
